@@ -1,0 +1,29 @@
+{
+  "name": "react-native-gradient-loading",
+  "version": "1.0.0",
+  "description": "svg react-native loading linerGradient",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaiYz/react-native-gradient-loading.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "iconfont"
+  ],
+  "author": "DaiYz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaiYz/react-native-gradient-loading/issues"
+  },
+  "homepage": "https://github.com/DaiYz/react-native-gradient-loading#readme",
+  "peerDependencies": {
+    "prop-types": "*",
+    "react": "*",
+    "react-native-svg": "^9.3.3",
+    "react-native": "*"
+  }
+}
