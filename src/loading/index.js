@@ -119,7 +119,7 @@ Loading.propTypes = {
 
 Loading.defaultProps = {
   size: 100,
-  speed: 1100,
+  speed: 1200,
   linearGradientColor: ['red', 'blue'],
   start: { x: 0, y: 0 },
   ringWidth: 6,
