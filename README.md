@@ -1,12 +1,12 @@
 # react-native-gradient-loading
 ## 运行效果
+
 * IOS
 <img alt="react-native-gradient-loading" src="https://raw.githubusercontent.com/DaiYz/react-native-gradient-loading/master/screenshots/1.gif" width="374" height="806" />
 
 
 * Android
 <img alt="react-native-gradient-loading" src="https://raw.githubusercontent.com/DaiYz/react-native-gradient-loading/master/screenshots/2.gif" width="300" height="589" />
-
 
 ## 安装
 * [npm](https://www.npmjs.com/#getting-started): `npm install react-native-gradient-loading --save`
@@ -19,7 +19,9 @@
   运行react-native link react-native-svg`
   
  ## 属性
+ 
  * 共有属性(即为Loading 属性)
+ 
  名字 | 默认值  | 类型 |描述
  ----- |  ------- | ------- |-----
  size | 100 | number |svg大小/画布的宽高/圆环的直径
@@ -34,6 +36,7 @@
  strokeLinecap | 'round' | ['square', 'round'] | 是否圆角描边
  
  * Load 属性
+ 
  名字 | 默认值  | 类型 |描述
  ----- |  ------- | ------- |-----
  initialNum | 0 | number | 动画开始数值
