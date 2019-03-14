@@ -1,3 +1,7 @@
-import Loading from './src'
+import Loading from './src/loading'
+import Load from './src/load'
 
-export default Loading
+export {
+  Loading,
+  Load
+}
