@@ -28,7 +28,7 @@
  speed | 1200 | number | 动画时长
  linearGradientColor | ['red', 'blue']| array | 渐变颜色
  start | { x: 0, y: 0 } | object | 渐变开始坐标
- end | { x: 0, y: 0 } | object | 渐变结束坐标
+ end | { x: 100, y: 100 } | object | 渐变结束坐标
  ringWidth | 6 | number | 圆环的宽度
  showBackCircle | true | bool | 是否显示底色
  backCircleColor | '#eee' | color | 底部圆环颜色
