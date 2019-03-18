@@ -41,7 +41,7 @@
  ----- |  ------- | ------- |-----
  initialNum | 0 | number | 动画开始数值
  targetNum | 100 | number | 最终显示数值
- startDirection | 'right' | ['top', 'right', 'bottom', 'left'] | 其实位置
+ startDirection | 'right' | ['top', 'right', 'bottom', 'left'] | 起始位置
  textStyle |  undefined | style | 文本样式
  textSpeed | 10 | number | 文字步进 此值尽量小
  percentage | 0.8 | number | 百分比，取值为 0～1
